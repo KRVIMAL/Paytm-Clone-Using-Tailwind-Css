@@ -14,7 +14,7 @@
 
  <p align="center">
     <br />
-    <a href="https://scrypto-landing-page.netlify.app/">Click here to view live project</a>
+    <a href="https://realpaytmclone.netlify.app/">Click here to view live project</a>
   </p>
 </div>
 
@@ -35,15 +35,15 @@
 # Project Introduction
 
 ## Paytm Clone
--  In this project i have tried to create a Paytm Clone
+#### In this project i have tried to create a Paytm Clone.
 
--  I have tried to make this clone as similar as possible to the Paytm website.
+#### I have tried to make this clone as similar as possible to the Paytm website.
 
 <!-- screenshots -->
 
 ## Screenshots
 
-[![main page clickable image](./src/images/screenshots/laptop.png)](https://scrypto-landing-page.netlify.app/)
+[![main page clickable image](./images/screenshots/laptop.png)](https://realpaytmclone.netlify.app/)
 
 
 
@@ -160,9 +160,9 @@
 <!-- Project screenshot -->
 [e-mail]:kvimal@gmail.com
 
-[project-url]:https://scrypto-landing-page.netlify.app/
+[project-url]:https://realpaytmclone.netlify.app/
 
-[source-code]:https://github.com/KRVIMAL/5th-Html-and-Css-project
+[source-code]:https://github.com/KRVIMAL/Paytm-Clone-Using-Tailwind-Css
 
 [instagram-url]: https://www.instagram.com/vimal.eth/
 
